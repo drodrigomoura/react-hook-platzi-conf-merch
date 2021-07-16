@@ -1,9 +1,12 @@
 import React from "react";
+import "../styles/components/App.css";
 
 export const App = () => {
   return (
     <div>
-      <p>Body</p>
+      <h1>
+        <p>Body</p>
+      </h1>
     </div>
   );
 };
